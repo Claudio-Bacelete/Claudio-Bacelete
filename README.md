@@ -1,4 +1,4 @@
-### <h2 align="center" >Hey ! Welcome to my Coding Space ! 😄</h2>
+### <h1 align="center" >Hey ! Welcome to my Coding Space ! 😄</h1>
 
 👋 My name is Cláudio Bacelete. I'm a Brazilian Fullstack Developer (Kinda) And Tech Entusiast 
 
