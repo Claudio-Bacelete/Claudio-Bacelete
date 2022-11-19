@@ -1,4 +1,4 @@
-### Hey ! Welcome to my Coding Space ! 😄
+### <h2 align="center" >Hey ! Welcome to my Coding Space ! 😄</h2>
 
 👋 My name is Cláudio Bacelete. I'm a Brazilian Fullstack Developer (Kinda) And Tech Entusiast 
 
@@ -6,7 +6,7 @@
 
 💻 Working as developer since 2020, trying to improve myself at least a little everyday
 
-<div align="center"> 
+<div align="right"> 
   <a href = "mailto:leclaudiohenrique@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -16,13 +16,9 @@
   </a>
 </div>
 
+##
 
-<div align="center">
-  <a href="https://github.com/Claudio-Bacelete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claudio-Bacelete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Bacelete&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block;">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,3 +28,12 @@
   <img align="center" alt="Typescript" height="40" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
+<br>
+<div align="center">
+  <a href="https://github.com/Claudio-Bacelete">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claudio-Bacelete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Bacelete&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+  
+##
