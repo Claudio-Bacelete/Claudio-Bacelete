@@ -1,11 +1,13 @@
 ### <h1 align="center" >Hey ! Welcome to my Coding Space ! 😄</h1>
 
 
-👋 My name is Cláudio Bacelete. I'm a Brazilian Fullstack (Kinda) Developer  And Tech Entusiast 
+👋 My name is Cláudio Bacelete. I'm a Brazilian Fullstack (Kinda) Developer And Tech Entusiast 
 
 📕 Currently studying Computer Engineering in PUC- Minas Gerais
 
 💻 Working as developer since 2020, trying to improve myself at least a little everyday
+
+😅 These are my personal repositories, so I'm not always up to date with what I'm working on.
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/cláudio-henrique-carvalho-bacelete-2a51bb1a3/" target="_blank">
