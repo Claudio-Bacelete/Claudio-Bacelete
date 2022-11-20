@@ -7,7 +7,7 @@
 
 💻 Working as developer since 2020, trying to improve myself at least a little everyday
 
-😅 These are my personal repositories, so I'm not always up to date with what I'm working on.
+😅 These are my personal repositories, so it's not always up to date with what I'm working on currently.
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/cláudio-henrique-carvalho-bacelete-2a51bb1a3/" target="_blank">
