@@ -3,7 +3,7 @@
 
 👋 My name is Cláudio Bacelete. I'm a Brazilian Fullstack (Kinda) Developer and a Tech Entusiast 
 
-📕 Currently studying Computer Engineering in PUC- Minas Gerais
+📕 Currently studying Computer Engineering in PUC Minas Gerais
 
 💻 Working as developer since 2020, trying to improve myself at least a little everyday
 
