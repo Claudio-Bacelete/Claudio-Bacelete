@@ -5,7 +5,7 @@
 
 📕 Currently studying Computer Engineering in PUC Minas Gerais
 
-💻 Working as developer since 2020, trying to improve myself at least a little everyday
+💻 Working as developer since 2020, trying to improve myself a little everyday
 
 😅 These are my personal repositories, so it's not always up to date with what I'm working on currently.
 
