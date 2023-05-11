@@ -10,7 +10,7 @@
 😅 These are my personal repositories, so it's not always up to date with what I'm working on currently.
 
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/cláudio-henrique-carvalho-bacelete-2a51bb1a3/" target="_blank">
+  <a href="https://www.linkedin.com/in/claudio-bacelete/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
     &nbsp;&nbsp;&nbsp;
