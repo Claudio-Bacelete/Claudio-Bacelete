@@ -3,9 +3,9 @@
 
 👋 My name is Cláudio Bacelete. I'm a Brazilian Fullstack Developer, a Tech Enthusiast, and currently studying Software Architecture to take my skills to the next level.
 
-📕 Graduated in Computer Engineering at PUC Minas Gerais
+📕 Graduated in Computer Engineering at PUC Minas Gerais.
 
-💻 Working as developer since 2020, trying to improve myself a little everyday
+💻 Working as developer since 2020, trying to improve myself a little everyday.
 
 😅 These are my personal repositories, so it's not always up to date with what I'm working on currently.
 
