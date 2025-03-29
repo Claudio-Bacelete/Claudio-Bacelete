@@ -1,9 +1,9 @@
 ### <h1 align="center" >Hey ! Welcome to my Coding Space ! 😄</h1>
 
 
-👋 My name is Cláudio Bacelete. I'm a Brazilian Fullstack (Kinda) Developer and a Tech Entusiast 
+👋 My name is Cláudio Bacelete. I'm a Brazilian Fullstack Developer, a Tech Enthusiast, and currently studying Software Architecture to take my skills to the next level.
 
-📕 Currently studying Computer Engineering in PUC Minas Gerais
+📕 Graduated in Computer Engineering at PUC Minas Gerais
 
 💻 Working as developer since 2020, trying to improve myself a little everyday
 
